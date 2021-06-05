@@ -1,0 +1,180 @@
+*{
+    margin: 6px;
+}
+
+.cabe{
+    text-align: left;
+    background-color: midnightblue;
+    color: white;
+    font-size: 30px;
+    letter-spacing: 3px;
+    padding: 5px;
+    font-family: monospace;
+    border-radius: 5px;
+    width: 95%;
+
+}
+.menu{
+    background-color: gray;
+    padding: 5px;
+    font-family: monospace;
+    float: left;
+    width: 20%;
+    box-sizing: border-box;
+    border-radius: 5px;
+
+}
+.menu img{
+    width: 80%;
+    height: auto;
+
+}
+.cuer{
+    text-align: center;
+    font-size: 15px;
+    background-color: cadetblue;
+    font-family: monospace;
+    float: left;
+    width: 50%;
+    border-radius: 5px;
+
+}
+.cuer img{
+    width: 75%;
+    height: auto;
+}
+.publicidad{
+    background-color: white;
+    width: 23%;
+    padding: 5px;
+    float: left;
+    text-align: justify;
+    font-family: monospace;
+
+}
+.publicidad img{
+    width: 80%;
+    height: auto;
+}
+.multi{
+    background-color: gray;
+    float: left;
+    width: 48%;
+    padding: 5px;
+    text-align: justify;
+    font-family: monospace;
+    border-radius: 5px;
+}
+.multi img{
+    width: 70%;
+    height: auto;
+}
+.juegos{
+    background-color: white;
+    float: left;
+    text-align: justify;
+    width: 23%;
+    font-family: monospace;
+    border-radius: 5px;
+
+}
+.juegos img{
+    width: 50%;
+    height: auto;
+}
+.credi{
+    background-color: black;
+    color: blanchedalmond;
+    padding: 5px;
+    font-family: monospace;
+    border-radius: 5px;
+    float: left;
+    text-align: center;
+    width: 75%;
+    border-radius: 5px;
+}
+.credi img{
+    width: 50%;
+    height: auto;
+}
+@media screen and (max-width:700px) {
+    .menu{
+        width: 100%;
+    }
+    .cuer{
+        width: 100%;
+    
+    }
+    .cabe{
+        width: 100%;
+    }
+    .publicidad{
+        width: 100%;
+    }
+    .multi{
+        width: 100%;
+    }
+    .juegos{
+        width: 100%;
+    }
+    .credi{
+        width: 100%;
+    }
+
+
+    
+}
+@media screen and (max-width:800px) {
+    .menu{
+        width: 100%;
+    }
+    .cuer{
+        width: 100%;
+    
+    }
+    .cabe{
+        width: 100%;
+    }
+    .publicidad{
+        width: 100%;
+    }
+    .multi{
+        width: 100%;
+    }
+    .juegos{
+        width: 100%;
+    }
+    .credi{
+        width: 100%;
+    }
+
+
+    
+}
+@media screen and (max-width:600px) {
+    .menu{
+        width: 100%;
+    }
+    .cuer{
+        width: 100%;
+    
+    }
+    .cabe{
+        width: 100%;
+    }
+    .publicidad{
+        width: 100%;
+    }
+    .multi{
+        width: 100%;
+    }
+    .juegos{
+        width: 100%;
+    }
+    .credi{
+        width: 100%;
+    }
+
+
+    
+}
